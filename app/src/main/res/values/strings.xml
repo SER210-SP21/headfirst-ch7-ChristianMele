@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ch8</string>
+    <string name="details_button">Show details</string>
+    <string name="workout_title">Title</string>
+    <string name="workout_description">Description</string>
+    <string name="blank_fragment">blank fragment</string>
+</resources>
